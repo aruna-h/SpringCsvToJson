@@ -1,0 +1,13 @@
+[ {
+  "ID" : "1001",
+  "fileName" : "File1",
+  "Type" : "PDF",
+  "Direction" : "Out",
+  "Date" : "20180518 "
+}, {
+  "ID" : "1002",
+  "fileName" : "File2",
+  "Type" : "DOC",
+  "Direction" : "Out",
+  "Date" : "20180502"
+} ]
